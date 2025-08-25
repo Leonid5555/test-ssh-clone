@@ -1,2 +1,2 @@
 # test-ssh-clone
-depository for learning git and ssh
+repository for learning git and ssh
